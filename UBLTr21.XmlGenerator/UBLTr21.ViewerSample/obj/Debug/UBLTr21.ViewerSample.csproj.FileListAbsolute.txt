@@ -1,0 +1,11 @@
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\bin\Debug\UBLTr21.ViewerSample.exe.config
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\bin\Debug\UBLTr21.ViewerSample.exe
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\bin\Debug\UBLTr21.ViewerSample.pdb
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\obj\Debug\UBLTr21.ViewerSample.Form1.resources
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\obj\Debug\UBLTr21.ViewerSample.Properties.Resources.resources
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\obj\Debug\UBLTr21.ViewerSample.csproj.GenerateResource.Cache
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\obj\Debug\UBLTr21.ViewerSample.exe
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\obj\Debug\UBLTr21.ViewerSample.pdb
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\bin\Debug\UBLTr21.XmlGenerator.dll
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\bin\Debug\UBLTr21.XmlGenerator.pdb
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.ViewerSample\obj\Debug\UBLTr21.ViewerSample.csprojResolveAssemblyReference.cache

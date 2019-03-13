@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EA9C3CB8-EE45-4EA1-97EE-8ADA98885753}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UBLTr21.XmlGenerator</RootNamespace>
+    <AssemblyName>UBLTr21.XmlGenerator</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="common\cs\CCTS_CCT_SchemaModule-2.1.Designer.cs" />
+    <Compile Include="common\cs\Signature\UBL-CommonSignatureComponents-2.1.Designer.cs" />
+    <Compile Include="common\cs\Signature\UBL-SignatureAggregateComponents-2.1.Designer.cs" />
+    <Compile Include="common\cs\Signature\UBL-SignatureBasicComponents-2.1.Designer.cs" />
+    <Compile Include="common\cs\Signature\UBL-XAdESv132-2.1.Designer.cs" />
+    <Compile Include="common\cs\Signature\UBL-XAdESv141-2.1.Designer.cs" />
+    <Compile Include="common\cs\Signature\UBL-xmldsig-core-schema-2.1.Designer.cs" />
+    <Compile Include="common\cs\UBL-CommonAggregateComponents-2.1.Designer.cs" />
+    <Compile Include="common\cs\UBL-CommonBasicComponents-2.1.Designer.cs" />
+    <Compile Include="common\cs\UBL-CommonExtensionComponents-2.1.Designer.cs" />
+    <Compile Include="common\cs\UBL-QualifiedDataTypes-2.1.Designer.cs" />
+    <Compile Include="common\cs\UBL-UnqualifiedDataTypes-2.1.Designer.cs" />
+    <Compile Include="DeSerialize.cs" />
+    <Compile Include="maindoc\cs\UBL-ApplicationResponse-2.1.Designer.cs" />
+    <Compile Include="maindoc\cs\UBL-BaseDocument-2.1.Designer.cs" />
+    <Compile Include="maindoc\cs\UBL-CreditNote-2.1.Designer.cs" />
+    <Compile Include="maindoc\cs\UBL-DespatchAdvice-2.1.Designer.cs" />
+    <Compile Include="maindoc\cs\UBL-Invoice-2.1.Designer.cs" />
+    <Compile Include="maindoc\cs\UBL-ReceiptAdvice-2.1.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Serialize.cs" />
+    <Compile Include="Utils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="common\CCTS_CCT_SchemaModule-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-CommonAggregateComponents-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-CommonBasicComponents-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-CommonExtensionComponents-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-CommonSignatureComponents-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-CoreComponentParameters-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-ExtensionContentDataType-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-QualifiedDataTypes-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-SignatureAggregateComponents-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-SignatureBasicComponents-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-UnqualifiedDataTypes-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-XAdESv132-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-XAdESv141-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="common\UBL-xmldsig-core-schema-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="maindoc\UBL-ApplicationResponse-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="maindoc\UBL-CreditNote-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="maindoc\UBL-DespatchAdvice-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="maindoc\UBL-Invoice-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="maindoc\UBL-ReceiptAdvice-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="maindoc\UBL-xmldsig-core-schema-2.1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="general.xslt" />
+    <Content Include="schematron\Açıklamalar.txt" />
+    <Content Include="schematron\History.txt" />
+    <Content Include="schematron\UBL-TR_Codelist.xml" />
+    <Content Include="schematron\UBL-TR_Common_Schematron.xml" />
+    <Content Include="schematron\UBL-TR_Main_Schematron.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

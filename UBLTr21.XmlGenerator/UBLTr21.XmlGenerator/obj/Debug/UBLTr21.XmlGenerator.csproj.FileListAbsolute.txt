@@ -1,0 +1,8 @@
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\bin\Debug\UBLTr21.XmlGenerator.dll
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\bin\Debug\UBLTr21.XmlGenerator.pdb
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\obj\Debug\UBLTr21.XmlGenerator.dll
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\obj\Debug\UBLTr21.XmlGenerator.pdb
+C:\Users\HUCAR\Desktop\EFatCreator\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\bin\Debug\UBLTr21.XmlGenerator.dll
+C:\Users\HUCAR\Desktop\EFatCreator\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\bin\Debug\UBLTr21.XmlGenerator.pdb
+C:\Users\HUCAR\Desktop\EFatCreator\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\obj\Debug\UBLTr21.XmlGenerator.dll
+C:\Users\HUCAR\Desktop\EFatCreator\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\obj\Debug\UBLTr21.XmlGenerator.pdb

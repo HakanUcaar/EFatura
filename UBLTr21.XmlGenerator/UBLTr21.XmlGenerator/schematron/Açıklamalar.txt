@@ -1,0 +1,11 @@
+28/04/2017 Tarihli güncelleme için açýklama:
+
+'EARSIVFATURA' ProfileID tipindeki faturalarýn þematron kontrolünde hata almamasý için þematron parameterik hale getirilmiþtir. 
+Kullanýlan parametrenin ismi 'type'dýr. Bu parametrenin deðerleri ve anlamlarý þu þekildedir.
+
+type='' veya type='efatura' -> Bu deðerlerde þematron efaturamerkez uygulamasýndaki gibi çalýþýr.
+type='earchive'		    -> Bu deðer ProfileID tipinin sadece 'EARSIVFATURA' olmasýný kontrol eder.
+
+
+E-arþiv faturasý üreten uygulamalarýn bu parametreyi þematron kontrolu sýrasýnda belirlemesi gerekmektedir.
+Diðer uygulamalarýn herhangi bir iþlem yapmasýna gerek yoktur.

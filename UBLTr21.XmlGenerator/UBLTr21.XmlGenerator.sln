@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBLTr21.XmlGenerator", "UBLTr21.XmlGenerator\UBLTr21.XmlGenerator.csproj", "{EA9C3CB8-EE45-4EA1-97EE-8ADA98885753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBLTr21.SerializeSample", "UBLTr21.SerializeSample\UBLTr21.SerializeSample.csproj", "{B70085C4-EBEC-4BE9-BAF1-2ADC0AE459A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBLTr21.DeSerializeSample", "UBLTr21.DeSerializeSample\UBLTr21.DeSerializeSample.csproj", "{61E1FC96-7FE0-40E0-BA26-F366D779D5F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBLTr21.ViewerSample", "UBLTr21.ViewerSample\UBLTr21.ViewerSample.csproj", "{FCA0DF9D-BC43-47CE-BDDC-7066ABAD3636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBLTr21.SchematronSample", "UBLTr21.SchematronSample\UBLTr21.SchematronSample.csproj", "{89ADE5C5-2ED6-4E7C-9C36-A67CAB1F3613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA9C3CB8-EE45-4EA1-97EE-8ADA98885753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9C3CB8-EE45-4EA1-97EE-8ADA98885753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9C3CB8-EE45-4EA1-97EE-8ADA98885753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9C3CB8-EE45-4EA1-97EE-8ADA98885753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70085C4-EBEC-4BE9-BAF1-2ADC0AE459A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70085C4-EBEC-4BE9-BAF1-2ADC0AE459A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70085C4-EBEC-4BE9-BAF1-2ADC0AE459A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70085C4-EBEC-4BE9-BAF1-2ADC0AE459A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E1FC96-7FE0-40E0-BA26-F366D779D5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E1FC96-7FE0-40E0-BA26-F366D779D5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E1FC96-7FE0-40E0-BA26-F366D779D5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E1FC96-7FE0-40E0-BA26-F366D779D5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA0DF9D-BC43-47CE-BDDC-7066ABAD3636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA0DF9D-BC43-47CE-BDDC-7066ABAD3636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA0DF9D-BC43-47CE-BDDC-7066ABAD3636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA0DF9D-BC43-47CE-BDDC-7066ABAD3636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89ADE5C5-2ED6-4E7C-9C36-A67CAB1F3613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ADE5C5-2ED6-4E7C-9C36-A67CAB1F3613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ADE5C5-2ED6-4E7C-9C36-A67CAB1F3613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ADE5C5-2ED6-4E7C-9C36-A67CAB1F3613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

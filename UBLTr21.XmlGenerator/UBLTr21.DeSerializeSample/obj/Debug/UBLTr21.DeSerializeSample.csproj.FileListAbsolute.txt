@@ -1,0 +1,11 @@
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\bin\Debug\UBLTr21.DeSerializeSample.exe.config
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\obj\Debug\UBLTr21.DeSerializeSample.csprojResolveAssemblyReference.cache
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\obj\Debug\UBLTr21.DeSerializeSample.Form1.resources
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\obj\Debug\UBLTr21.DeSerializeSample.Properties.Resources.resources
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\obj\Debug\UBLTr21.DeSerializeSample.csproj.GenerateResource.Cache
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\bin\Debug\UBLTr21.DeSerializeSample.exe
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\bin\Debug\UBLTr21.DeSerializeSample.pdb
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\bin\Debug\UBLTr21.XmlGenerator.dll
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\bin\Debug\UBLTr21.XmlGenerator.pdb
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\obj\Debug\UBLTr21.DeSerializeSample.exe
+C:\Users\HUCAR\Desktop\EFaturaOluşturucu\UBLTr21.XmlGenerator\UBLTr21.DeSerializeSample\obj\Debug\UBLTr21.DeSerializeSample.pdb

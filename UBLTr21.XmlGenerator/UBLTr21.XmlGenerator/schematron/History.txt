@@ -1,0 +1,61 @@
+20170317
+--------
+1) CustomizationIDCheck güncellendi.
+2) ProfileIDType güncellendi.
+
+20170413
+--------
+1) AccountingCostCodeList eklendi.
+2) AccountingCostCheck eklendi.
+3) SGKInvoiceCheck eklendi.
+4) TimeCheck Güncellendi.
+
+20170428
+---------
+1) ProfileIDCheck güncellendi.
+2) 'type' isimli parametre eklendi.
+
+20170808
+--------
+1) CountryCodeList güncellendi.
+2) TaxRepresentativePartyCheck eklendi.
+3) IhracatYolcuBeraberCheck güncellendi.
+
+
+20171002
+--------
+1) EnvelopeTypeElementTypeCheck güncellendi.
+2) ReceiptAdviceRejectCheck güncellendi.
+3) SGKInvoiceCheck güncellendi.
+4) AccountingCostCheck silindi.
+5) InvoiceTypeCodeList güncellendi.
+
+20171016
+---------
+1) SGKInvoiceCheck güncellendi.
+2) GeneralWithholdingTaxTotalCheck güncellendi.
+3) TaxExemptionReasonCodeCheck güncellendi.
+
+20171213
+---------
+1) SGKInvoiceCheck silindi.
+2) ReceiptAdviceTypeCodeCheck güncellendi.
+
+
+20180315
+---------
+1)UserAccountCheck güncellendi.
+2)InvoiceTypeCodeCheck güncellendi.
+3)EnvelopeTypeElementTypeCheck güncellendi.
+4)ProfileIDTypeGoruntuleme güncellendi.
+
+20180420
+---------
+1) IhracatYolcuBeraberCheck güncellendi.
+2) TaxFreeInvoiceCheck güncellendi
+
+20180717
+-------
+1) TaxExemptionReasonCodeType güncellendi.
+2) istisnaTaxExemptionReasonCodeType güncellendi.
+3) UserAccountCheck güncellendi.
