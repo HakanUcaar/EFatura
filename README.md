@@ -17,3 +17,4 @@ Proje içerisinde örnek kullanımlar yer almaktadır. Ayrıca oluşturulan xmli
 ![ViewerSample.gif](https://github.com/HakanUcaar/EFatura/blob/master/EFatViewer.gif)
 
 # SchematronSample
+![SchematronSample.gif](https://github.com/HakanUcaar/EFatura/blob/master/EFatSchematron.gif)
