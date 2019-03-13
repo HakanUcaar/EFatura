@@ -8,10 +8,10 @@ Ayrıca yine kütüphaneyi kullanarak mevcut bir xmli invoice classına dönüş
 Proje içerisinde örnek kullanımlar yer almaktadır. Ayrıca oluşturulan xmlin doğruluğu için bir validation örneğide mevcuttur. 
 
 # SerializeSample 
-![ListviewClassHelper2.gif](https://github.com/HakanUcaar/EFatura/blob/master/EFatSerialize.gif)
-
+![SerializeSample.gif](https://github.com/HakanUcaar/EFatura/blob/master/EFatSerialize.gif)
 
 # DeSerializeSample
+![DeSerializeSample.gif](https://github.com/HakanUcaar/EFatura/blob/master/EFatDeSerialize.gif)
 
 # ViewerSample
 
