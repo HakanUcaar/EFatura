@@ -18,6 +18,7 @@ namespace UBLTr21.XmlGenerator
                 XmlWriterSettings setting = new XmlWriterSettings();
                 setting.Indent = true;
                 setting.IndentChars = "\t";
+                setting.Encoding = Encoding.UTF8;
 
                 //Eğer xml dosyaya yazılacaksa
                 string xmlFilename = @"Deneme.xml";

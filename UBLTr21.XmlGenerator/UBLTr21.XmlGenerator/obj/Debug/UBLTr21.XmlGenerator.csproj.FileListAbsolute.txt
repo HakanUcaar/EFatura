@@ -6,3 +6,8 @@ C:\Users\HUCAR\Desktop\EFatCreator\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\bin
 C:\Users\HUCAR\Desktop\EFatCreator\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\bin\Debug\UBLTr21.XmlGenerator.pdb
 C:\Users\HUCAR\Desktop\EFatCreator\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\obj\Debug\UBLTr21.XmlGenerator.dll
 C:\Users\HUCAR\Desktop\EFatCreator\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\obj\Debug\UBLTr21.XmlGenerator.pdb
+D:\DropBox\Dropbox\GithubClones\Me\EFatura\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\bin\Debug\UBLTr21.XmlGenerator.dll
+D:\DropBox\Dropbox\GithubClones\Me\EFatura\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\bin\Debug\UBLTr21.XmlGenerator.pdb
+D:\DropBox\Dropbox\GithubClones\Me\EFatura\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\obj\Debug\UBLTr21.XmlGenerator.csprojResolveAssemblyReference.cache
+D:\DropBox\Dropbox\GithubClones\Me\EFatura\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\obj\Debug\UBLTr21.XmlGenerator.dll
+D:\DropBox\Dropbox\GithubClones\Me\EFatura\UBLTr21.XmlGenerator\UBLTr21.XmlGenerator\obj\Debug\UBLTr21.XmlGenerator.pdb
